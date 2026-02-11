@@ -13,3 +13,16 @@ W projekcie:
 Projekt pokazuje: monitorowanie logów, identyfikacja incydentów, konfiguracja zabezpieczeń i diagnostyka problemów w środowisku Linux.
 
 -----------------------------------------------------------------------------------------------------------------------
+
+### **Analiza incydentu phishingowego – symulacja SOC**
+Badanie ataków phishingowych w środowisku symulacyjnym (TryHackMe, LetsDefend).
+W projekcie:
+- Identyfikacja i dokumentacja podejrzanych wiadomości e-mail
+- Analiza linków i załączników w bezpiecznym sandboxie
+- Ocena interakcji użytkownika i potencjalnego zagrożenia
+- Analiza logów sieciowych i endpointowych
+- Dokumentacja wszystkich kroków i wniosków
+
+Projekt pokazuje: monitorowanie zagrożeń, triage incydentów, stosowanie narzędzi OSINT i analizę logów w celu ochrony użytkowników oraz infrastruktury.
+
+-----------------------------------------------------------------------------------------------------------------------
