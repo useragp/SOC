@@ -26,3 +26,15 @@ W projekcie:
 Projekt pokazuje: monitorowanie zagrożeń, triage incydentów, stosowanie narzędzi OSINT i analizę logów w celu ochrony użytkowników oraz infrastruktury.
 
 -----------------------------------------------------------------------------------------------------------------------
+
+### **Raport - analiza logów SIEM** 
+   --> Analiza podejrzanego połączenia sieciowego
+
+Raport przedstawia analizę incydentu bezpieczeństwa wykrytego w systemie SIEM na podstawie logów Sysmon. 
+Analiza obejmuje identyfikację podejrzanego połączenia sieciowego wewnątrz LAN, analizę procesu podszywającego się pod legalne oprogramowanie oraz wykrycie mechanizmu persistence w postaci zaplanowanego zadania systemowego.
+
+Projekt pokazuje: analizę logów w SIEM (Splunk), korelację zdarzeń sieciowych i procesowych oraz wykrywanie mechanizmów persistence.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
