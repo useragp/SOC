@@ -37,4 +37,14 @@ Projekt pokazuje: analizę logów w SIEM (Splunk), korelację zdarzeń sieciowyc
 
 -----------------------------------------------------------------------------------------------------------------------
 
+### **Analiza ataku brute-force (WordPress)**
+Projekt dotyczy analizy ataku typu brute-force na aplikację WordPress na podstawie logów serwera WWW w systemie SIEM (Splunk). Analiza obejmowała:
+- identyfikację nadmiernej liczby żądań
+- rozdzielenie dwóch niezależnych źródeł ataku
+- ocenę metod HTTP i nagłówków User-Agent
+- zidentyfikowanie użycia narzędzi automatycznych -> WPScan i Hydra
+
+Projekt pokazuje: analizę ataków brute-force, korelację logów WWW, redukcję szumu analitycznego i podejmowanie decyzji SOC L1.
+
+-----------------------------------------------------------------------------------------------------------------------
 
